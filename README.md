@@ -8,6 +8,12 @@ Acessar UI na seguinte uri:
 
 <http://localhost:9099/>
 
+Usuário e senha:
+```
+admin
+admin
+```
+
 
 Navergar até `System/Inputs` pelo menu e criar uma entrda GELF UDP:
 ![alt text](images/01.png?raw=true=250x250 "Title")
